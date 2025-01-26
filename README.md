@@ -38,77 +38,77 @@ Watch:
 
 ### Arrays & Hashing
 
-| Problem                | Pattern            | Solution                                                    |
-| ---------------------- | ------------------ | ----------------------------------------------------------- |
-| Two Sum                | Hash Map           | [Solution](./src/arrays-and-hashing/two-sum)                |
-| Three Sum              | Two Pointers       | [Solution](./src/arrays-and-hashing/three-sum)              |
-| Next Permutation       | Array Manipulation | [Solution](./src/arrays-and-hashing/next-permutation)       |
-| First Missing Positive | Cyclic Sort        | [Solution](./src/arrays-and-hashing/first-missing-positive) |
+| Problem                | Solution                                                    |
+| ---------------------- | ----------------------------------------------------------- |
+| Two Sum                | [Solution](./src/arrays-and-hashing/two-sum)                |
+| Three Sum              | [Solution](./src/arrays-and-hashing/three-sum)              |
+| Next Permutation       | [Solution](./src/arrays-and-hashing/next-permutation)       |
+| First Missing Positive | [Solution](./src/arrays-and-hashing/first-missing-positive) |
 
 ### Backtracking
 
-| Problem                    | Pattern    | Solution                                                  |
-| -------------------------- | ---------- | --------------------------------------------------------- |
-| Combinations               | DFS        | [Solution](./src/backtracking/combinations)               |
-| Word Search II             | Trie + DFS | [Solution](./src/backtracking/word-search-ii)             |
-| Non-decreasing Subsequence | DFS        | [Solution](./src/backtracking/non-decreasing-subsequence) |
+| Problem                    | Solution                                                  |
+| -------------------------- | --------------------------------------------------------- |
+| Combinations               | [Solution](./src/backtracking/combinations)               |
+| Word Search II             | [Solution](./src/backtracking/word-search-ii)             |
+| Non-decreasing Subsequence | [Solution](./src/backtracking/non-decreasing-subsequence) |
 
 ### Binary Search
 
-| Problem | Pattern       | Solution                              |
-| ------- | ------------- | ------------------------------------- |
-| Sqrt(x) | Binary Search | [Solution](./src/binary-search/sqrtx) |
+| Problem | Solution                              |
+| ------- | ------------------------------------- |
+| Sqrt(x) | [Solution](./src/binary-search/sqrtx) |
 
 ### Dynamic Programming & Greedy
 
-| Problem                            | Pattern | Solution                              |
-| ---------------------------------- | ------- | ------------------------------------- |
-| Jump Game                          | Greedy  | [Solution](./src/dp-greedy/jump-game) |
-| Best Time to Buy and Sell Stock II | Greedy  | [Solution](./src/dp-greedy/stock-ii)  |
+| Problem                            | Solution                              |
+| ---------------------------------- | ------------------------------------- |
+| Jump Game                          | [Solution](./src/dp-greedy/jump-game) |
+| Best Time to Buy and Sell Stock II | [Solution](./src/dp-greedy/stock-ii)  |
 
 ### Graphs
 
-| Problem                | Pattern | Solution                                           |
-| ---------------------- | ------- | -------------------------------------------------- |
-| Trapping Rain Water II | BFS     | [Solution](./src/graphs/bfs/trapping-rainwater-ii) |
+| Problem                | Solution                                           |
+| ---------------------- | -------------------------------------------------- |
+| Trapping Rain Water II | [Solution](./src/graphs/bfs/trapping-rainwater-ii) |
 
 ### Heap
 
-| Problem             | Pattern        | Solution                           |
-| ------------------- | -------------- | ---------------------------------- |
-| Kth Largest Element | Priority Queue | [Solution](./src/heap/kth-largest) |
+| Problem             | Solution                           |
+| ------------------- | ---------------------------------- |
+| Kth Largest Element | [Solution](./src/heap/kth-largest) |
 
 ### Kadane's Algorithm
 
-| Problem                         | Pattern        | Solution                                      |
-| ------------------------------- | -------------- | --------------------------------------------- |
-| Maximum Subarray Sum            | Kadane         | [Solution](./src/kadane/max-subarray-sum)     |
-| Maximum Product Subarray        | Kadane Variant | [Solution](./src/kadane/max-product-subarray) |
-| Best Time to Buy and Sell Stock | Kadane         | [Solution](./src/kadane/stock-i)              |
+| Problem                         | Solution                                      |
+| ------------------------------- | --------------------------------------------- |
+| Maximum Subarray Sum            | [Solution](./src/kadane/max-subarray-sum)     |
+| Maximum Product Subarray        | [Solution](./src/kadane/max-product-subarray) |
+| Best Time to Buy and Sell Stock | [Solution](./src/kadane/stock-i)              |
 
 ### Math & String
 
-| Problem          | Pattern | Solution                                          |
-| ---------------- | ------- | ------------------------------------------------- |
-| Integer to Roman | String  | [Solution](./src/math-nd-string/integer-to-roman) |
-| Roman to Integer | String  | [Solution](./src/math-nd-string/roman-to-integer) |
+| Problem          | Solution                                          |
+| ---------------- | ------------------------------------------------- |
+| Integer to Roman | [Solution](./src/math-nd-string/integer-to-roman) |
+| Roman to Integer | [Solution](./src/math-nd-string/roman-to-integer) |
 
 ### Stack
 
-| Problem                          | Pattern      | Solution                                        |
-| -------------------------------- | ------------ | ----------------------------------------------- |
-| Valid Parentheses                | Stack        | [Solution](./src/stack/valid-parentheses)       |
-| Min Stack                        | Stack Design | [Solution](./src/stack/min-stack)               |
-| Evaluate Reverse Polish Notation | Stack        | [Solution](./src/stack/reverse-polish-notation) |
+| Problem                          | Solution                                        |
+| -------------------------------- | ----------------------------------------------- |
+| Valid Parentheses                | [Solution](./src/stack/valid-parentheses)       |
+| Min Stack                        | [Solution](./src/stack/min-stack)               |
+| Evaluate Reverse Polish Notation | [Solution](./src/stack/reverse-polish-notation) |
 
 ### Trees
 
-| Problem                     | Pattern | Solution                                              |
-| --------------------------- | ------- | ----------------------------------------------------- |
-| Convert Sorted Array to BST | DFS     | [Solution](./src/trees/bst/convert-sorted-arr-to-bst) |
+| Problem                     | Solution                                              |
+| --------------------------- | ----------------------------------------------------- |
+| Convert Sorted Array to BST | [Solution](./src/trees/bst/convert-sorted-arr-to-bst) |
 
 ### Two Pointers
 
-| Problem             | Pattern      | Solution                                            |
-| ------------------- | ------------ | --------------------------------------------------- |
-| Trapping Rain Water | Two Pointers | [Solution](./src/two-pointers/trapping-rainwater-i) |
+| Problem             | Solution                                            |
+| ------------------- | --------------------------------------------------- |
+| Trapping Rain Water | [Solution](./src/two-pointers/trapping-rainwater-i) |
