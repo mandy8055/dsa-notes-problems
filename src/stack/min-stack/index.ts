@@ -37,7 +37,7 @@ class MinStack1 {
   }
 }
 
-// Min stack with O(1)
+// Min stack without extra space
 class MinStack {
   private minEl: number;
   private stack: number[];
@@ -55,9 +55,8 @@ class MinStack {
     if (this.size === 0) {
       this.stack.push(val);
       this.minEl = val;
-      return;
     }
-    if (val > this.minEl) {
+    if (val >= this.minEl) {
       this.stack.push(val);
     } else {
       this.stack.push(2 * val - this.minEl);
@@ -67,21 +66,18 @@ class MinStack {
 
   pop(): void {
     const top = this.stack.pop()!;
-    if (top <= this.minEl) {
+    if (top < this.minEl) {
       const prevMin = 2 * this.minEl - top;
       this.minEl = prevMin;
     }
-    if (this.stack.length === 0) {
+    if (this.size === 0) {
       this.minEl = Infinity;
     }
   }
 
   top(): number {
-    const top = this.stack[this.stack.length - 1];
-
-    // If top value is less than or equal to min, it was encoded
-    // The actual value is the current minimum
-    return top <= this.minEl ? this.minEl : top;
+    if (this.stack[this.size - 1] < this.minEl) return this.minEl;
+    return this.stack[this.size - 1];
   }
 
   getMin(): number {

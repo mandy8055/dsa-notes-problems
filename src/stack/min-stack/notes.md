@@ -18,12 +18,8 @@ Stack with encoding
 
 ## Why 2\*x - minEl formula works
 
-When x < minEl:
-
-1. Store: 2x - minEl (encoded value)
-2. Update: minEl = x
-3. Later decode: prevMin = 2\*minEl - encoded
-4. Proof: 2\*x - (2x - minEl) = minEl
+1. We're encoding the value as `2*x - minEl` in order to keep track the place of insertion of minEl in the stack.
+2. We als have to be sure that this value `2*x - minEl < x`. [How to prove this?](https://www.geeksforgeeks.org/design-a-stack-that-supports-getmin-in-o1-time-and-o1-extra-space/)
 
 ## Test Case
 

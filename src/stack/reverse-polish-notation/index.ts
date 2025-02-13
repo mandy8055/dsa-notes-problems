@@ -16,6 +16,7 @@ function evalRPN(tokens: string[]): number {
         return 0; // invalid case(unreachable)
     }
   };
+
   for (let token of tokens) {
     if (isOperator(token)) {
       const s = stack.pop()!;
