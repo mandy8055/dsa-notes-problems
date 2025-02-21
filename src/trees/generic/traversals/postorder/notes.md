@@ -33,9 +33,12 @@ Expected: [4,2,3,1]
 
 ## Steps
 
-1. Go left while pushing nodes to stack
-2. At each node, process right subtree if not visited
-3. Process node only after both subtrees done
+1. Go as left as possible pushing the nodes to stack
+2. Check if the stack top(peek) node's right has been visited before(already processed)
+
+    2.1. If yes, mark the lastVisited as peek and process the node
+
+    2.2. If no, go right        
 
 ## Watch
 
