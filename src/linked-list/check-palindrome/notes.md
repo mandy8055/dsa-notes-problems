@@ -36,7 +36,3 @@ Expected: true
 
 - Reverse Linked List
 - Middle of Linked List
-
-## Review
-
-2025-02-21

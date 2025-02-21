@@ -36,7 +36,3 @@ Expected: 5 (index of 6)
 
 - Find Peak Element II (2D version)
 - Find in Mountain Array
-
-## Review
-
-2025-02-21
