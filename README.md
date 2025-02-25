@@ -6,12 +6,13 @@ A collection of common DSA problems with detailed notes and TypeScript solutions
 
 ### Arrays & Hashing
 
-| Problem                | Solution                                                 | Status |
-| ---------------------- | -------------------------------------------------------- | ------ |
-| Two Sum                | [Notes](./src/arrays-and-hashing/two-sum)                | ✅     |
-| Three Sum              | [Notes](./src/arrays-and-hashing/three-sum)              | ✅     |
-| Next Permutation       | [Notes](./src/arrays-and-hashing/next-permutation)       | ✅     |
-| First Missing Positive | [Notes](./src/arrays-and-hashing/first-missing-positive) | ✅     |
+| Problem                 | Solution                                                  | Status |
+| ----------------------- | --------------------------------------------------------- | ------ |
+| Two Sum                 | [Notes](./src/arrays-and-hashing/two-sum)                 | ✅     |
+| Three Sum               | [Notes](./src/arrays-and-hashing/three-sum)               | ✅     |
+| Next Permutation        | [Notes](./src/arrays-and-hashing/next-permutation)        | ✅     |
+| First Missing Positive  | [Notes](./src/arrays-and-hashing/first-missing-positive)  | ✅     |
+| Sub-arrays with odd sum | [Notes](./src/arrays-and-hashing/sub-arrays-with-odd-sum) | ✅     |
 
 ### Backtracking
 
