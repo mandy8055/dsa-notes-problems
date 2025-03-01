@@ -13,6 +13,10 @@ A collection of common DSA problems with detailed notes and TypeScript solutions
 | Next Permutation        | [Notes](./src/arrays-and-hashing/next-permutation)        | ✅     |
 | First Missing Positive  | [Notes](./src/arrays-and-hashing/first-missing-positive)  | ✅     |
 | Sub-arrays with odd sum | [Notes](./src/arrays-and-hashing/sub-arrays-with-odd-sum) | ✅     |
+| Majority Element I      | [Notes](./src/arrays-and-hashing/majority-element-i)      | ✅     |
+| Majority Element II     | [Notes](./src/arrays-and-hashing/majority-element-ii)     | ✅     |
+| Rotate Array            | [Notes](./src/arrays-and-hashing/rotate-array)            | ✅     |
+| Sort Colors             | [Notes](./src/arrays-and-hashing/sort-colors)             | ✅     |
 
 ### Backtracking
 
@@ -63,17 +67,21 @@ A collection of common DSA problems with detailed notes and TypeScript solutions
 | Maximum Subarray Sum            | [Notes](./src/kadane/max-subarray-sum)     | ✅     |
 | Maximum Product Subarray        | [Notes](./src/kadane/max-product-subarray) | ✅     |
 | Best Time to Buy and Sell Stock | [Notes](./src/kadane/stock-i)              | ✅     |
+| Maximum Absolute Sum Subarray   | [Notes](./src/kadane/max-absolute-sum)     | ✅     |
 
 ### Linked List
 
-| Problem                | Solution                                     | Status |
-| ---------------------- | -------------------------------------------- | ------ |
-| Check Palindrome       | [Notes](./src/linked-list/check-palindrome)  | ✅     |
-| Detect Cycle           | [Notes](./src/linked-list/detect-cycle)      | ✅     |
-| Middle of Linked List  | [Notes](./src/linked-list/middle-ll)         | ✅     |
-| Odd Even Linked List   | [Notes](./src/linked-list/odd-even-ll)       | ✅     |
-| Reverse Linked List    | [Notes](./src/linked-list/reverse)           | ✅     |
-| Starting Point of Loop | [Notes](./src/linked-list/starting-point-ll) | ✅     |
+| Problem                      | Solution                                             | Status |
+| ---------------------------- | ---------------------------------------------------- | ------ |
+| Check Palindrome             | [Notes](./src/linked-list/check-palindrome)          | ✅     |
+| Detect Cycle                 | [Notes](./src/linked-list/detect-cycle)              | ✅     |
+| Middle of Linked List        | [Notes](./src/linked-list/middle-ll)                 | ✅     |
+| Odd Even Linked List         | [Notes](./src/linked-list/odd-even-ll)               | ✅     |
+| Reverse Linked List          | [Notes](./src/linked-list/reverse)                   | ✅     |
+| Starting Point of Loop       | [Notes](./src/linked-list/starting-point-ll)         | ✅     |
+| Intersection of Linked Lists | [Notes](./src/linked-list/intersection-of-ll)        | ✅     |
+| Remove Nth Node From End     | [Notes](./src/linked-list/remove-nth-node-from-back) | ✅     |
+| Polynomial Addition          | [Notes](./src/linked-list/polynomial-addition)       | ✅     |
 
 ### Math & String
 
@@ -113,6 +121,9 @@ A collection of common DSA problems with detailed notes and TypeScript solutions
 | Maximum Path Sum                         | [Notes](./src/trees/generic/problems/max-path-sum)             | ✅     |
 | Level Order Traversal                    | [Notes](./src/trees/generic/traversals/level-order)            | ✅     |
 | ZigZag Traversal                         | [Notes](./src/trees/generic/traversals/zig-zag)                | ✅     |
+| Inorder Traversal                        | [Notes](./src/trees/generic/traversals/inorder)                | ✅     |
+| Preorder Traversal                       | [Notes](./src/trees/generic/traversals/preorder)               | ✅     |
+| Postorder Traversal                      | [Notes](./src/trees/generic/traversals/postorder)              | ✅     |
 
 ### Two Pointers
 

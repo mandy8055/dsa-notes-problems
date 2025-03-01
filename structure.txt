@@ -1,0 +1,231 @@
+./
+├── README.md
+├── src
+│   ├── arrays-and-hashing
+│   │   ├── first-missing-positive
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── majority-element-i
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── majority-element-ii
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── next-permutation
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── rotate-array
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── sort-colors
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── sub-arrays-with-odd-sum
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── three-sum
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   └── two-sum
+│   │       ├── index.ts
+│   │       └── notes.md
+│   ├── backtracking
+│   │   ├── combinations
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── non-decreasing-subsequence
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   └── word-search-ii
+│   │       ├── index.ts
+│   │       └── notes.md
+│   ├── binary-search
+│   │   ├── minimum-in-rotated-sorted
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── peak-element
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── rotated-sorted-i
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── rotated-sorted-ii
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   └── sqrtx
+│   │       ├── index.ts
+│   │       └── notes.md
+│   ├── dp-greedy
+│   │   ├── jump-game
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   └── stock-ii
+│   │       ├── index.ts
+│   │       └── notes.md
+│   ├── graphs
+│   │   ├── representations
+│   │   │   ├── list
+│   │   │   │   ├── index.ts
+│   │   │   │   └── notes.md
+│   │   │   └── matrix
+│   │   │       ├── index.ts
+│   │   │       └── notes.md
+│   │   └── traversals
+│   │       ├── bfs
+│   │       │   ├── 0-1-bfs
+│   │       │   │   ├── index.ts
+│   │       │   │   └── notes.md
+│   │       │   ├── multi-source
+│   │       │   │   ├── index.ts
+│   │       │   │   └── notes.md
+│   │       │   └── standard
+│   │       │       ├── index.ts
+│   │       │       └── notes.md
+│   │       ├── dfs
+│   │       │   ├── index.ts
+│   │       │   └── notes.md
+│   │       └── problems
+│   │           ├── bipartite
+│   │           │   └── index.ts
+│   │           ├── connected-components
+│   │           │   ├── index.ts
+│   │           │   └── notes.md
+│   │           ├── cycle-detection
+│   │           │   └── udg
+│   │           │       ├── index.ts
+│   │           │       └── notes.md
+│   │           ├── flood-fill
+│   │           │   ├── index.ts
+│   │           │   └── notes.md
+│   │           ├── rotten-oranges
+│   │           │   ├── index.ts
+│   │           │   └── notes.md
+│   │           └── trapping-rainwater-ii
+│   │               ├── index.ts
+│   │               └── notes.md
+│   ├── heap
+│   │   └── kth-largest
+│   │       ├── index.ts
+│   │       └── notes.md
+│   ├── kadane
+│   │   ├── max-absolute-sum
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── max-product-subarray
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── max-subarray-sum
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   └── stock-i
+│   │       ├── index.ts
+│   │       └── notes.md
+│   ├── linked-list
+│   │   ├── check-palindrome
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── detect-cycle
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── intersection-of-ll
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── middle-ll
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── odd-even-ll
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── polynomial-addition
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── remove-nth-node-from-back
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── reverse
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   └── starting-point-ll
+│   │       ├── index.ts
+│   │       └── notes.md
+│   ├── math-nd-string
+│   │   ├── integer-to-roman
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   └── roman-to-integer
+│   │       ├── index.ts
+│   │       └── notes.md
+│   ├── matrix
+│   │   ├── spiral-i
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   └── spiral-ii
+│   │       ├── index.ts
+│   │       └── notes.md
+│   ├── stack
+│   │   ├── min-stack
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   ├── reverse-polish-notation
+│   │   │   ├── index.ts
+│   │   │   └── notes.md
+│   │   └── valid-parentheses
+│   │       ├── index.ts
+│   │       └── notes.md
+│   ├── trees
+│   │   ├── bst
+│   │   │   └── convert-sorted-arr-to-bst
+│   │   │       ├── index.ts
+│   │   │       └── notes.md
+│   │   └── generic
+│   │       ├── problems
+│   │       │   ├── check-identical
+│   │       │   │   ├── index.ts
+│   │       │   │   └── notes.md
+│   │       │   ├── construct-using-post-in
+│   │       │   │   ├── index.ts
+│   │       │   │   └── notes.md
+│   │       │   ├── construct-using-pre-in
+│   │       │   │   ├── index.ts
+│   │       │   │   └── notes.md
+│   │       │   ├── construct-using-pre-post
+│   │       │   │   ├── index.ts
+│   │       │   │   └── notes.md
+│   │       │   ├── diameter
+│   │       │   │   ├── index.ts
+│   │       │   │   └── notes.md
+│   │       │   ├── height
+│   │       │   │   ├── index.ts
+│   │       │   │   └── notes.md
+│   │       │   ├── height-balanced
+│   │       │   │   ├── index.ts
+│   │       │   │   └── notes.md
+│   │       │   ├── invert-btree
+│   │       │   │   ├── index.ts
+│   │       │   │   └── notes.md
+│   │       │   └── max-path-sum
+│   │       │       ├── index.ts
+│   │       │       └── notes.md
+│   │       └── traversals
+│   │           ├── inorder
+│   │           │   ├── index.ts
+│   │           │   └── notes.md
+│   │           ├── level-order
+│   │           │   ├── index.ts
+│   │           │   └── notes.md
+│   │           ├── postorder
+│   │           │   ├── index.ts
+│   │           │   └── notes.md
+│   │           ├── preorder
+│   │           │   ├── index.ts
+│   │           │   └── notes.md
+│   │           └── zig-zag
+│   │               ├── index.ts
+│   │               └── notes.md
+│   └── two-pointers
+│       └── trapping-rainwater-i
+│           ├── index.ts
+│           └── notes.md
+└── structure.txt
+
+92 directories, 137 files
