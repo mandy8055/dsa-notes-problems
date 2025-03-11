@@ -97,6 +97,14 @@ A collection of common DSA problems with detailed notes and TypeScript solutions
 | Spiral Matrix I  | [Notes](./src/matrix/spiral-i)  | ✅     |
 | Spiral Matrix II | [Notes](./src/matrix/spiral-ii) | ✅     |
 
+### Sliding Window
+
+| Problem                                    | Solution                                                      | Status |
+| ------------------------------------------ | ------------------------------------------------------------- | ------ |
+| Count Vowel and K Consonants               | [Notes](./src/sliding-window/count-vowel-nd-k)                | ✅     |
+| Count Vowel Substrings                     | [Notes](./src/sliding-window/count-vowel-substrings)          | ✅     |
+| Substrings Containing All Three Characters | [Notes](./src/sliding-window/substrings-containing-all-chars) | ✅     |
+
 ### Stack
 
 | Problem                          | Solution                                     | Status |
